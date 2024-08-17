@@ -1,4 +1,4 @@
-Hello, I'm KAviyarasan K 👋
+Hello, I'm Kaviyarasan K 👋
 
 I'm a Copuetr Science Student with a passion for Artificial Intelligence and Machine Learning. I love Coding. I'm always eager to learn new things and share knowledge with the community.
 
@@ -21,18 +21,11 @@ LinkedIn: kaviyarasank
 GitHub: kaviyarasan-07
 
 📜 Projects
-Here are some of the projects I've worked on:
 
-[Project Name]: A brief description of what the project does.
-
-GitHub Repository
-[Another Project]: A brief description of what the project does.
+Loading..
 
 GitHub Repository
 🌟 Interests & Hobbies
-[Interest or Hobby 1]
-[Interest or Hobby 2]
-[Interest or Hobby 3]
-✨ Fun Fact
-[A fun fact about yourself or an interesting anecdote.]
+  Cricket
+  Reading Books
 
